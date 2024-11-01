@@ -1,7 +1,7 @@
 # 404
 
 
-## This project is a secure web application that showcases my skills in web development. Please note that the source code for this project is not publicly available due to security reasons.
+## This project is a secure web application that have client details. Please note that the source code for this project is not publicly available due to security reasons.
 
 # Accessing the Source Code
 
